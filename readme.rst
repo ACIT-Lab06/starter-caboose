@@ -2,26 +2,18 @@
 Tutorial 5 Starter Webapp - Caboose
 ###################################
 
-This is the starter webapp for CodeIgniter Tutorial #5.
+Finished lab 6
 
-Unlike an earlier version, this version is fully functional, just feature incomplete.
-
-The project uses a "quotes" database, setup through quotes-setup.sql in the project root.
-
-The homepage displays the most recently added quote, with drill-down to see a 
-specific quote in detail.
-
-The Viewer controller displays all the quotes on file, by default.
-Each mugshot links to a viewer/quote method call, to display that author's quote.
 
 
 **************
-Intended Usage
+Members:
 **************
 
-Fork this project.
-Clone it locally.
-Enhance it per the tutorial
+LabSquid (Patrick Voth, A00932944)
+CooperWoro (Cooper Worobetz, A00925321)
+
+
 
 *****
 Setup
